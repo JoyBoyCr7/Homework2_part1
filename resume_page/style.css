@@ -7,8 +7,16 @@ h3{
     color: rgb(166, 115, 52);
 }
 body{
+    text-align: center;
     padding-top: 50px;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 50px;
+}
+nav{}
+li{
+    list-style: none;
+}
+ol{
+    list-style: none;
 }
